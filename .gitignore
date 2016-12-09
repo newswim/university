@@ -14,5 +14,4 @@ config.json
 */*/._*
 coverage.*
 .settings
-test/fixtures/awesomeLog.json
-log
+test/fixtures/awesomeLog
